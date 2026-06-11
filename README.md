@@ -128,7 +128,7 @@ Minimum:
 Clone the repository:
 
 ```bash
-git clone https://github.com/vkhorozian/ai-nvr.git
+git clone https://github.com/vkhorozian/YOLO-Vehicle-And-People-Analytics.git
 cd ai-nvr
 ```
 
