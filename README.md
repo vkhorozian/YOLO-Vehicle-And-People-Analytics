@@ -241,4 +241,4 @@ This project is intended for educational, research, and surveillance analytics p
 
 ## License
 
-This project is licensed under the MIT License.
+MIT. See [LICENSE](LICENSE).
