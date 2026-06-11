@@ -167,7 +167,7 @@ PERSON_CLASS = [0]
 ## Running
 
 ```bash
-python ai_nvr.py
+python YOLO+Async_Events+Smart_Recording V2.py
 ```
 
 Startup output displays:
